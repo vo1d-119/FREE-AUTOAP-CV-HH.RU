@@ -11,7 +11,7 @@
 1. Установите [Python 3.13.2](https://www.python.org/downloads/release/python-3132/)
 2. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/ваш-репозиторий/free-autoap-cv-hh.ru.git
+git clone https://github.com/vo1d-119/FREE-AUTOAP-CV-HH.RU
 cd free-autoap-cv-hh.ru
 ```
 3. Установка зависимостей:
